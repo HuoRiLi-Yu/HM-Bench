@@ -1,0 +1,2114 @@
+[
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_67/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_67/objective_report.txt",
+        "item_id": 1,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_52/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_52/objective_report.txt",
+        "item_id": 2,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_58/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_58/objective_report.txt",
+        "item_id": 3,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_90/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_90/objective_report.txt",
+        "item_id": 4,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_95/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_95/objective_report.txt",
+        "item_id": 5,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_70/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_70/objective_report.txt",
+        "item_id": 6,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_50/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_50/objective_report.txt",
+        "item_id": 7,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_43/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_43/objective_report.txt",
+        "item_id": 8,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_60/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_60/objective_report.txt",
+        "item_id": 9,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_10/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_10/objective_report.txt",
+        "item_id": 10,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_62/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_62/objective_report.txt",
+        "item_id": 11,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_38/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_38/objective_report.txt",
+        "item_id": 12,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_37/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_37/objective_report.txt",
+        "item_id": 13,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_19/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_19/objective_report.txt",
+        "item_id": 14,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_49/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_49/objective_report.txt",
+        "item_id": 15,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_39/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_39/objective_report.txt",
+        "item_id": 16,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_18/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_18/objective_report.txt",
+        "item_id": 17,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_20/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_20/objective_report.txt",
+        "item_id": 18,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_54/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_54/objective_report.txt",
+        "item_id": 19,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_74/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_74/objective_report.txt",
+        "item_id": 20,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_47/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_47/objective_report.txt",
+        "item_id": 21,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_12/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_12/objective_report.txt",
+        "item_id": 22,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_71/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_71/objective_report.txt",
+        "item_id": 23,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_2/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_2/objective_report.txt",
+        "item_id": 24,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_44/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_44/objective_report.txt",
+        "item_id": 25,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_104/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_104/objective_report.txt",
+        "item_id": 26,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_33/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_33/objective_report.txt",
+        "item_id": 27,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_65/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_65/objective_report.txt",
+        "item_id": 28,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_42/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_42/objective_report.txt",
+        "item_id": 29,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_72/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_72/objective_report.txt",
+        "item_id": 30,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_80/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_80/objective_report.txt",
+        "item_id": 31,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_9/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_9/objective_report.txt",
+        "item_id": 32,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_25/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_25/objective_report.txt",
+        "item_id": 33,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_17/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_17/objective_report.txt",
+        "item_id": 34,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_57/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_57/objective_report.txt",
+        "item_id": 35,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_45/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_45/objective_report.txt",
+        "item_id": 36,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_36/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_36/objective_report.txt",
+        "item_id": 37,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_103/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_103/objective_report.txt",
+        "item_id": 38,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_11/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_11/objective_report.txt",
+        "item_id": 39,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_82/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_82/objective_report.txt",
+        "item_id": 40,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_63/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_63/objective_report.txt",
+        "item_id": 41,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_81/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_81/objective_report.txt",
+        "item_id": 42,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_68/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_68/objective_report.txt",
+        "item_id": 43,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_73/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_73/objective_report.txt",
+        "item_id": 44,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_1/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_1/objective_report.txt",
+        "item_id": 45,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_96/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_96/objective_report.txt",
+        "item_id": 46,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_35/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_35/objective_report.txt",
+        "item_id": 47,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_88/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_88/objective_report.txt",
+        "item_id": 48,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_64/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_64/objective_report.txt",
+        "item_id": 49,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_59/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_59/objective_report.txt",
+        "item_id": 50,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_66/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_66/objective_report.txt",
+        "item_id": 51,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_53/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_53/objective_report.txt",
+        "item_id": 52,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_89/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_89/objective_report.txt",
+        "item_id": 53,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_51/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_51/objective_report.txt",
+        "item_id": 54,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "A",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_46/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_46/objective_report.txt",
+        "item_id": 55,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_61/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_61/objective_report.txt",
+        "item_id": 56,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Comparing 2004 and 2007, did the average spectral intensity in the changed area Increase or Decrease?",
+        "answer": "B",
+        "image1": "data/hsi_reports/Hermiston_2004/hermiston_blk_69/objective_report.txt",
+        "image2": "data/hsi_reports/Hermiston_2007/hermiston_blk_69/objective_report.txt",
+        "item_id": 57,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Increase",
+            "B": "Decrease"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Classify the type of change observed in block 5 compared to typical urban blocks.",
+        "answer": "C",
+        "image_path": "data/hsi_reports/Houston_18/block_5/objective_report.txt",
+        "item_id": 58,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Deforestation",
+            "B": "Urban sprawl",
+            "C": "Water presence",
+            "D": "Road construction",
+            "E": "Building demolition",
+            "F": "Vegetation recovery"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Classify the type of environmental change in block 14.",
+        "answer": "C",
+        "image_path": "data/hsi_reports/Houston_18/block_14/objective_report.txt",
+        "item_id": 59,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Deforestation",
+            "B": "Urban expansion",
+            "C": "Moderate development",
+            "D": "Vegetation recovery",
+            "E": "Water body formation",
+            "F": "Industrial development"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "Classify the type of environmental transition in block 9.",
+        "answer": "B",
+        "image_path": "data/hsi_reports/Houston_18/block_9/objective_report.txt",
+        "item_id": 60,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Rural to urban",
+            "B": "Low to high density non-residential",
+            "C": "Vegetation to bare soil",
+            "D": "Water to land",
+            "E": "Residential to commercial",
+            "F": "No transition"
+        },
+        "task_type": "Change Statistical Analysis"
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_01/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_01/objective_report.txt",
+        "itemid": 7,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 61
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_01/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_01/objective_report.txt",
+        "itemid": 8,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 62
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_01/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_01/objective_report.txt",
+        "itemid": 9,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 63
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "E",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_02/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_02/objective_report.txt",
+        "itemid": 16,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 64
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_02/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_02/objective_report.txt",
+        "itemid": 17,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 65
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_02/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_02/objective_report.txt",
+        "itemid": 18,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 66
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_03/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_03/objective_report.txt",
+        "itemid": 25,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 67
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_03/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_03/objective_report.txt",
+        "itemid": 26,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 68
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_03/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_03/objective_report.txt",
+        "itemid": 27,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 69
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_04/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_04/objective_report.txt",
+        "itemid": 34,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 70
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_04/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_04/objective_report.txt",
+        "itemid": 35,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 71
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_04/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_04/objective_report.txt",
+        "itemid": 36,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 72
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "E",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_05/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_05/objective_report.txt",
+        "itemid": 43,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 73
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_05/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_05/objective_report.txt",
+        "itemid": 44,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 74
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_05/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_05/objective_report.txt",
+        "itemid": 45,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 75
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_06/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_06/objective_report.txt",
+        "itemid": 52,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 76
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_06/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_06/objective_report.txt",
+        "itemid": 53,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 77
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_06/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_06/objective_report.txt",
+        "itemid": 54,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 78
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "E",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_07/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_07/objective_report.txt",
+        "itemid": 61,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 79
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_07/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_07/objective_report.txt",
+        "itemid": 62,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 80
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_07/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_07/objective_report.txt",
+        "itemid": 63,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 81
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_08/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_08/objective_report.txt",
+        "itemid": 70,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 82
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_08/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_08/objective_report.txt",
+        "itemid": 71,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 83
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "B",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_08/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_08/objective_report.txt",
+        "itemid": 72,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 84
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_09/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_09/objective_report.txt",
+        "itemid": 79,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 85
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "B",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_09/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_09/objective_report.txt",
+        "itemid": 80,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 86
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_09/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_09/objective_report.txt",
+        "itemid": 81,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 87
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_10/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_10/objective_report.txt",
+        "itemid": 88,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 88
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_10/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_10/objective_report.txt",
+        "itemid": 89,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 89
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_10/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_10/objective_report.txt",
+        "itemid": 90,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 90
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_11/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_11/objective_report.txt",
+        "itemid": 97,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 91
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "B",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_11/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_11/objective_report.txt",
+        "itemid": 98,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 92
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_11/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_11/objective_report.txt",
+        "itemid": 99,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 93
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_12/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_12/objective_report.txt",
+        "itemid": 106,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 94
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_12/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_12/objective_report.txt",
+        "itemid": 107,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 95
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_12/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_12/objective_report.txt",
+        "itemid": 108,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 96
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_13/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_13/objective_report.txt",
+        "itemid": 115,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 97
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "B",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_13/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_13/objective_report.txt",
+        "itemid": 116,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 98
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_13/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_13/objective_report.txt",
+        "itemid": 117,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 99
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_14/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_14/objective_report.txt",
+        "itemid": 124,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 100
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_14/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_14/objective_report.txt",
+        "itemid": 125,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 101
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_14/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_14/objective_report.txt",
+        "itemid": 126,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 102
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_15/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_15/objective_report.txt",
+        "itemid": 133,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 103
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_15/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_15/objective_report.txt",
+        "itemid": 134,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 104
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_15/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_15/objective_report.txt",
+        "itemid": 135,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 105
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_16/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_16/objective_report.txt",
+        "itemid": 142,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 106
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_16/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_16/objective_report.txt",
+        "itemid": 143,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 107
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_16/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_16/objective_report.txt",
+        "itemid": 144,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 108
+    },
+    {
+        "question": "Which land cover type was the most stable from 2013 to 2014 in this block?",
+        "answer": "A",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_17/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_17/objective_report.txt",
+        "itemid": 151,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Grass Healthy",
+            "B": "Grass Stressed",
+            "C": "Asphalt",
+            "D": "Concrete",
+            "E": "Bare Soil",
+            "F": "Water",
+            "G": "No change in any type"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 109
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_17/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_17/objective_report.txt",
+        "itemid": 152,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 110
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_17/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_17/objective_report.txt",
+        "itemid": 153,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 111
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_18/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_18/objective_report.txt",
+        "itemid": 160,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 112
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_18/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_18/objective_report.txt",
+        "itemid": 161,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 113
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_18/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_18/objective_report.txt",
+        "itemid": 162,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 114
+    },
+    {
+        "question": "Which land cover type conversion was the most frequent from 2013 to 2014 in this block?",
+        "answer": "F",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_19/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_19/objective_report.txt",
+        "itemid": 169,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Vegetation → Artificial",
+            "B": "Vegetation → Bare Soil",
+            "C": "Bare Soil → Artificial",
+            "D": "Bare Soil → Vegetation",
+            "E": "Artificial → Vegetation",
+            "F": "Other conversion",
+            "G": "No significant conversion"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 115
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_19/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_19/objective_report.txt",
+        "itemid": 170,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 116
+    },
+    {
+        "question": "How did the area of artificial surfaces (Asphalt + Concrete) change from 2013 to 2014 in this block?",
+        "answer": "E",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_19/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_19/objective_report.txt",
+        "itemid": 171,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increased",
+            "B": "Slight increased",
+            "C": "Stable",
+            "D": "Slight decreased",
+            "E": "Significant decreased",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 117
+    },
+    {
+        "question": "Was there a significant land cover change related to Water in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_20/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_20/objective_report.txt",
+        "itemid": 178,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Yes, water area increased",
+            "B": "Yes, water area decreased",
+            "C": "No significant change in water area",
+            "D": "No Water in either year"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 118
+    },
+    {
+        "question": "What was the overall trend of vegetation (Grass Healthy + Grass Stressed) from 2013 to 2014 in this block?",
+        "answer": "C",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_20/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_20/objective_report.txt",
+        "itemid": 179,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Significant increase",
+            "B": "Slight increase",
+            "C": "Stable",
+            "D": "Slight decrease",
+            "E": "Significant decrease",
+            "F": "No vegetation in both years"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 119
+    },
+    {
+        "question": "What was the dominant direction of land cover change from 2013 to 2014 in this block?",
+        "answer": "D",
+        "image1": "data/hsi_reports/santaBarbara_2013/block_20/objective_report.txt",
+        "image2": "data/hsi_reports/santaBarbara_2014/block_20/objective_report.txt",
+        "itemid": 180,
+        "level1_id": 2,
+        "level2_id": 6,
+        "level3_id": 13,
+        "options": {
+            "A": "Naturalization (artificial → natural/vegetation)",
+            "B": "Urbanization (natural/vegetation → artificial)",
+            "C": "Bare soil expansion",
+            "D": "Bare soil reduction",
+            "E": "Vegetation health degradation",
+            "F": "Vegetation health recovery",
+            "G": "Mixed/no dominant direction"
+        },
+        "task_type": "Change Statistical Analysis",
+        "item_id": 120
+    }
+]
