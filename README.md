@@ -1,9 +1,10 @@
 # 🌈 HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing
 
+
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)]()
 [![Dataset](https://img.shields.io/badge/Dataset-Download-blue)]()
 [![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
 
 **HM-Bench** is the first comprehensive benchmark designed to evaluate **Multimodal Large Language Models (MLLMs)** in the domain of **Hyperspectral Remote Sensing (HSI)**. We bridge the gap between general-purpose MLLMs and the specialized requirements of spectral-spatial analysis.
 
