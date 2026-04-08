@@ -2,8 +2,19 @@
 
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)]()
-[![Dataset](https://img.shields.io/badge/Dataset-Download-blue)]()
 [![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)]()
+
+---
+
+## 📊 Dataset Download
+
+The HM-Bench dataset consists of three main components:
+
+### 📁 Individual Files
+
+- 📦 **[Original Hyperspectral Blocks](https://pan.baidu.com/s/167-4652sJaW1RujtNHGU4w?pwd=31yj )** - Raw hyperspectral data blocks
+- 📦 **[PCA Image Input](https://pan.baidu.com/s/1aaGZKu9632mFdUeqwHieGw?pwd=7viu)** - Preprocessed PCA-transformed image data  
+- 📦 **[Report](https://pan.baidu.com/s/1HxTtvBoTqn7F5TJrRID73Q?pwd=3yae)** - Dataset documentation and analysis reports
 
 
 **HM-Bench** is the first comprehensive benchmark designed to evaluate **Multimodal Large Language Models (MLLMs)** in the domain of **Hyperspectral Remote Sensing (HSI)**. We bridge the gap between general-purpose MLLMs and the specialized requirements of spectral-spatial analysis.
