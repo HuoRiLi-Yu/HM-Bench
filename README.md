@@ -1,7 +1,7 @@
 # 🌈 HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing
 
 <!--[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](YOUR_ARXIV_LINK_HERE)-->
-[![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)](HM-Bench-Appendix.pdf)
+[![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)](HM_Bench_Appendix.pdf)
 <!--[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](LICENSE)-->
 
 ---
