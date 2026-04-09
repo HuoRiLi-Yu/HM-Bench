@@ -67,7 +67,7 @@ HM-Bench/
 │ ├── 📄 prompt_builder.py　　　 # Prompt construction templates for different tasks  
 │ └── 📄 run_eval.py　　　　　　 # Main evaluation pipeline entry point  
 │  
-├── 📁 case_study/  
+├── 📄 case_study　　　　　　　 # case study  
 └── 📄 HM_Bench_Appendix.pdf　　　 # Supplementary Material  
 
 ### 🔧 Usage Notes
