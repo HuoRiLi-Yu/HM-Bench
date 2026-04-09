@@ -1,8 +1,8 @@
 # 🌈 HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](YOUR_ARXIV_LINK_HERE)
-[![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)](YOUR_SUPPLEMENTARY_LINK_HERE)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](LICENSE)
+<!--[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](YOUR_ARXIV_LINK_HERE)-->
+[![Supplementary](https://img.shields.io/badge/Supplementary-Material-green)](HM-Bench-Appendix.pdf)
+<!--[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue)](LICENSE)-->
 
 ---
 
@@ -86,47 +86,27 @@ Below we present 12 representative case studies illustrating model behaviors acr
 
 <div align="center">
 
-### Perception Tasks
 
-| Feature Recognition | Target Quantification | Spatial Localization |
+| Case 1 | Case 2 | Case 3 |
 |:---:|:---:|:---:|
-| ![Case 1](casestudy/case01.png) | ![Case 2](casestudy/case02.png) | ![Case 3](casestudy/case03.png) |
-| *Case 1: [Description]* | *Case 2: [Description]* | *Case 3: [Description]* |
+| ![Case 1](case%20study/case_1.png) | ![Case 2](case%20study/case_2.png) | ![Case 3](case%20study/case_3.png) |
 
 | Case 4 | Case 5 | Case 6 |
 |:---:|:---:|:---:|
-| ![Case 4](casestudy/case04.png) | ![Case 5](casestudy/case05.png) | ![Case 6](casestudy/case06.png) |
-| *Case 4: [Description]* | *Case 5: [Description]* | *Case 6: [Description]* |
+| ![Case 4](case%20study/case_4.png) | ![Case 5](case%20study/case_5.png) | ![Case 6](case%20study/case_6.png) |
 
-### Reasoning Tasks
-
-| Composition Interpretation | State Assessment | Change Detection |
+| Case 7 | Case 8 | Case 9 |
 |:---:|:---:|:---:|
-| ![Case 7](casestudy/case07.png) | ![Case 8](casestudy/case08.png) | ![Case 9](casestudy/case09.png) |
-| *Case 7: [Description]* | *Case 8: [Description]* | *Case 9: [Description]* |
+| ![Case 7](case%20study/case_7.png) | ![Case 8](case%20study/case_8.png) | ![Case 9](case%20study/case_9.png) |
 
 | Case 10 | Case 11 | Case 12 |
 |:---:|:---:|:---:|
-| ![Case 10](casestudy/case10.png) | ![Case 11](casestudy/case11.png) | ![Case 12](casestudy/case12.png) |
-| *Case 10: [Description]* | *Case 11: [Description]* | *Case 12: [Description]* |
+| ![Case 10](case%20study/case_10.png) | ![Case 11](case%20study/case_11.png) | ![Case 12](case%20study/case_12.png) |
 
 </div>
 
-> 📝 **Note:** Replace `casestudy/caseXX.png` with your actual image paths and update the descriptions to match your specific visualization content.
-
----
-
-## 📚 Resources
-
-| Resource | Link | Description |
-|:---|:---|:---|
-| **📄 Paper (arXiv)** | [YOUR_ARXIV_LINK_HERE](YOUR_ARXIV_LINK_HERE) | Full technical paper with methodology and results |
-| **📊 Supplementary Material** | [YOUR_SUPPLEMENTARY_LINK_HERE](YOUR_SUPPLEMENTARY_LINK_HERE) | Detailed prompt templates, evaluation scripts, and extended statistical analysis |
-| **🏛️ Project Page** | [YOUR_PROJECT_PAGE_HERE](YOUR_PROJECT_PAGE_HERE) | Interactive data explorer and additional visualizations |
-
----
-
-## 📜 Citation
+<!--
+ ## 📜 Citation
 
 If you use HM-Bench in your research, please cite our work:
 
@@ -140,8 +120,7 @@ If you use HM-Bench in your research, please cite our work:
   primaryClass={cs.CV}
 }
 ```
+-->
 📧 Contact
 For questions or feedback regarding the dataset, please open an issue in this repository or contact the authors through the paper submission system.
-<div align="center">
-⭐ Star this repository if you find it helpful!
-</div>
+
