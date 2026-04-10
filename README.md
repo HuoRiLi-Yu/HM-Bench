@@ -42,9 +42,9 @@ The HM-Bench dataset is organized into three complementary components, designed 
 
 | Component | Description | Download |
 |:---|:---|:---:|
-| **🧊 Raw Hyperspectral Blocks** | Original hyperspectral data cubes preserving full spectral fidelity | [Baidu Drive](https://pan.baidu.com/s/167-4652sJaW1RujtNHGU4w?pwd=31yj)  |
-| **🖼️ PCA Composite Images** | Grayscale visualization from first 12 PCA components for direct MLLM input | [Baidu Drive](https://pan.baidu.com/s/1aaGZKu9632mFdUeqwHieGw?pwd=7viu)  |
-| **📄 Structured Reports** | Quantitative spectral feature descriptions in structured text format | [Baidu Drive](https://pan.baidu.com/s/1HxTtvBoTqn7F5TJrRID73Q?pwd=3yae)  |
+| **🧊 Raw Hyperspectral Blocks** | Original hyperspectral data cubes preserving full spectral fidelity | [Baidu Drive](https://pan.baidu.com/s/167-4652sJaW1RujtNHGU4w?pwd=31yj) <br> [Google Drive](https://drive.google.com/file/d/1Fhwh0AwEZmGOJZidRhXzR85HckTWH_rJ/view?usp=sharing) |
+| **🖼️ PCA Composite Images** | Grayscale visualization from first 12 PCA components for direct MLLM input | [Baidu Drive](https://pan.baidu.com/s/1aaGZKu9632mFdUeqwHieGw?pwd=7viu) <br> [Google Drive](https://drive.google.com/file/d/11-oS8Di_UsrEoUhldiMmN0eSrd-Io7Vv/view?usp=sharing) |
+| **📄 Structured Reports** | Quantitative spectral feature descriptions in structured text format | [Baidu Drive](https://pan.baidu.com/s/1HxTtvBoTqn7F5TJrRID73Q?pwd=3yae) <br> [Google Drive](https://drive.google.com/file/d/1jpwuMp0hTRA5Cr_0unjPz3h1gKXEH7Gh/view?usp=sharing) |
 
 ---
 
@@ -67,8 +67,8 @@ HM-Bench/
 │ ├── 📄 prompt_builder.py　　　 # Prompt construction templates for different tasks  
 │ └── 📄 run_eval.py　　　　　　 # Main evaluation pipeline entry point  
 │  
-├── 📄 case_study　　　　　　　 # case study  
-└── 📄 HM_Bench_Appendix.pdf　　　 # Supplementary Material  
+├── 📄 case_study　　　　　　　 　# case study  
+└── 📄 HM_Bench_Appendix.pdf　 # Supplementary Material  
 
 ### 🔧 Usage Notes
 
