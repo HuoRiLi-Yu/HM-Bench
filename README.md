@@ -6,6 +6,8 @@
   <a href="HM_Bench_Appendix.pdf"><img src="https://img.shields.io/badge/Supplementary-Material-green" alt="Supplementary"></a>
   &nbsp;&nbsp;
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue" alt="License"></a>
+  &nbsp;&nbsp;
+  <a href="https://huggingface.co/datasets/Huorili/HM-Bench"><img src="https://img.shields.io/badge/🤗-Hugging%20Face%20Dataset-yellow" alt="Hugging Face Dataset"></a>
 </div>
 
 ---
