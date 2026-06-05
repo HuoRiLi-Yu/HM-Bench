@@ -114,11 +114,6 @@ Below we present 12 representative case studies illustrating model behaviors acr
 
 This section provides the additional experiments and analyses requested during rebuttal, including PCA ablations, explained variance statistics, repeated-run results, human baseline, annotation quality control, and open-ended evaluation.
 
-
-## Additional Results for Rebuttal
-
-This section provides the additional experiments and analyses requested during rebuttal, including PCA ablations, explained variance statistics, repeated-run results, human baseline, annotation quality control, and open-ended evaluation.
-
 - [1. PCA Ablation on the Number of Principal Components](#1-pca-ablation-on-the-number-of-principal-components)
 - [2. PCA Explained Variance Across Datasets](#2-pca-explained-variance-across-datasets)
 - [3. Re-run Results for Claude and Representative Open-source Models](#3-re-run-results-for-claude-and-representative-open-source-models)
