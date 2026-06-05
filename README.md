@@ -110,7 +110,7 @@ Below we present 12 representative case studies illustrating model behaviors acr
 
 </div>
 
-## Additional Results for Rebuttal
+## Additional Supplementary Material and Result
 
 This section provides the additional experiments and analyses requested during rebuttal, including PCA ablations, explained variance statistics, repeated-run results, human baseline, annotation quality control, and open-ended evaluation.
 
