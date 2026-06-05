@@ -110,6 +110,194 @@ Below we present 12 representative case studies illustrating model behaviors acr
 
 </div>
 
+## Additional Results for Rebuttal
+
+This section provides the additional experiments and analyses requested during rebuttal, including PCA ablations, explained variance statistics, repeated-run results, human baseline, annotation quality control, and open-ended evaluation.
+
+
+## Additional Results for Rebuttal
+
+This section provides the additional experiments and analyses requested during rebuttal, including PCA ablations, explained variance statistics, repeated-run results, human baseline, annotation quality control, and open-ended evaluation.
+
+- [1. PCA Ablation on the Number of Principal Components](#1-pca-ablation-on-the-number-of-principal-components)
+- [2. PCA Explained Variance Across Datasets](#2-pca-explained-variance-across-datasets)
+- [3. Re-run Results for Claude and Representative Open-source Models](#3-re-run-results-for-claude-and-representative-open-source-models)
+- [4. Human Baseline](#4-human-baseline)
+- [5. QA Quality Control Statistics](#5-qa-quality-control-statistics)
+- [6. Open-ended Evaluation](#6-open-ended-evaluation)
+
+
+---
+
+### 1. PCA Ablation on the Number of Principal Components
+
+**Take-away.** Across three representative MLLMs, using **12 principal components (PCs)** provides the best overall trade-off.
+
+
+| Model | 6 PCs | 12 PCs | 24 PCs |
+|---|---:|---:|---:|
+| Qwen3-VL | 40.57 | **40.96** | 40.34 |
+| InternVL2 | 36.08 | **36.17** | 36.10 |
+| LLaVA-1.5 | 31.19 | **33.98** | 31.14 |
+
+
+**Note.** These results support our use of 12 PCs as a practical default setting.
+
+---
+
+### 2. PCA Explained Variance Across Datasets
+
+**Take-away.** PCA retains a high proportion of spectral variance on most datasets with a small number of components, while some datasets (notably **KSC**) remain substantially more challenging.
+
+#### 2.1 Full explained-variance table
+
+
+| Dataset | #Bands | EV@1 | EV@3 | EV@6 | EV@12 | EV@24 | #PCs for 90% EV | #PCs for 95% EV |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| santaBarbara_2013 | 224 | 80.99 | 94.45 | 96.39 | 98.09 | 99.38 | 2 | 4 |
+| output_Nilifossae | 425 | 84.03 | 98.71 | 99.62 | 99.86 | 99.94 | 2 | 3 |
+| urban | 162 | 68.84 | 98.68 | 99.66 | 99.87 | 99.94 | 2 | 2 |
+| BayArea_2015 | 224 | 54.10 | 99.44 | 99.81 | 99.93 | 99.96 | 2 | 2 |
+| Houston_13 | 48 | 59.15 | 99.66 | 99.94 | 99.98 | 99.99 | 2 | 2 |
+| paviac | 102 | 75.03 | 99.31 | 99.78 | 99.93 | 99.97 | 2 | 2 |
+| new_output_HanChuan | 274 | 92.21 | 99.45 | 99.67 | 99.74 | 99.81 | 1 | 2 |
+| new_output_HongHu | 270 | 61.95 | 96.90 | 98.11 | 98.78 | 99.25 | 2 | 2 |
+| new_output_LongKou | 270 | 95.47 | 99.85 | 99.93 | 99.96 | 99.97 | 1 | 1 |
+| Washington_blocks | 191 | 83.44 | 99.49 | 99.87 | 99.96 | 99.98 | 2 | 2 |
+| ksc | 176 | 26.18 | 41.79 | 56.49 | 70.26 | 86.21 | 29 | 37 |
+| Hermiston_2004 | 242 | 76.77 | 93.59 | 96.67 | 97.99 | 98.97 | 3 | 4 |
+| Indianpines | 200 | 58.49 | 90.94 | 93.99 | 96.93 | 98.74 | 3 | 8 |
+| Hermiston_2007 | 242 | 73.11 | 90.17 | 95.29 | 97.19 | 98.56 | 3 | 6 |
+| santaBarbara_2014 | 224 | 82.94 | 96.50 | 97.65 | 98.65 | 99.61 | 2 | 2 |
+| BayArea_2013 | 224 | 82.52 | 99.81 | 99.96 | 99.99 | 99.99 | 2 | 2 |
+| output_holden | 440 | 95.61 | 98.89 | 99.56 | 99.76 | 99.88 | 1 | 1 |
+| output_xiongan_blocks | 256 | 60.56 | 99.34 | 99.70 | 99.75 | 99.77 | 2 | 2 |
+| botswana | 145 | 94.62 | 99.40 | 99.67 | 99.78 | 99.87 | 1 | 2 |
+| output_Salinas | 204 | 87.89 | 99.59 | 99.85 | 99.94 | 99.96 | 2 | 2 |
+| output_utopia | 432 | 70.64 | 96.78 | 98.15 | 99.02 | 99.47 | 2 | 3 |
+| paviau | 103 | 48.65 | 98.42 | 99.35 | 99.81 | 99.94 | 2 | 2 |
+| Houston_18 | 48 | 74.62 | 99.65 | 99.93 | 99.98 | 99.99 | 2 | 2 |
+
+
+#### 2.2 Explained-variance curves
+
+> Please place the PCA explained-variance curve figure below.
+
+![PCA Explained Variance Curves](./assets/pca_explained_variance_curves.png)
+
+**Note.** The figure path above can be replaced with the actual file location in the repository.
+
+---
+
+### 3. Re-run Results for Claude and Representative Open-source Models
+
+**Take-away.** The originally anomalous Claude result becomes normal after re-running, and repeated runs on representative open-source models show consistent trends.
+
+#### 3.1 Overall rerun results
+
+
+| Model | Modality | Overall |
+|---|---|---:|
+| Claude-sonnet-4-6 | Image | 39.48 |
+| Claude-sonnet-4-6 | Report | 36.57 |
+| Qwen3-vl-4B | Image | 39.38 |
+| Qwen3-vl-4B | Report | 35.52 |
+| InternVL2-8B | Image | 37.66 |
+| InternVL2-8B | Report | 36.58 |
+| LLaVA-1.5-7B | Image | 31.21 |
+| LLaVA-1.5-7B | Report | 30.44 |
+
+
+#### 3.2 Fine-grained rerun breakdown
+
+
+| Model | Input | FR (SFR / LCC) | TQ (PD / CS) | SL (OLR / RD) | CI (SAD / SU) | SA (VH / EPSA) | CD (BCI / CAL / CSA) | Overall |
+|---|---|---|---|---|---|---|---|---:|
+| **Claude-sonnet-4-6** | Image | 58.20 / 42.17 | 50.07 / 26.73 | 29.02 / 43.77 | 32.05 / 42.65 | 49.26 / 56.48 | 38.08 / 14.80 / 30.00 | 39.48 |
+|  | Report | 41.54 / 23.39 | 39.80 / 34.57 | 30.38 / 47.30 | 39.58 / 39.62 | 48.58 / 45.37 | 30.36 / 21.60 / 33.33 | 36.57 |
+| **Qwen3-vl-4B** | Image | 47.81 / 30.45 | 34.61 / 33.94 | 27.50 / 29.05 | 66.06 / 41.76 | 41.96 / 64.89 | 42.21 / 10.03 / 41.67 | 39.38 |
+|  | Report | 33.63 / 19.34 | 23.70 / 44.16 | 27.08 / 23.49 | 59.74 / 36.44 | 55.44 / 59.03 | 28.76 / 15.14 / 35.83 | 35.52 |
+| **InternVL2-8B** | Image | 40.03 / 27.93 | 41.89 / 37.23 | 27.61 / 31.46 | 42.89 / 42.87 | 39.69 / 66.36 | 38.08 / 11.05 / 42.50 | 37.66 |
+|  | Report | 36.98 / 20.63 | 28.82 / 40.31 | 26.51 / 28.04 | 63.28 / 38.14 | 41.73 / 62.89 | 33.29 / 14.97 / 40.00 | 36.58 |
+| **LLaVA-1.5-7B** | Image | 39.18 / 44.51 | 63.97 / 37.72 | 23.99 / 27.07 | 21.97 / 28.09 | 30.63 / 17.75 | 30.76 / 10.03 / 30.00 | 31.21 |
+|  | Report | 37.50 / 43.28 | 62.02 / 36.88 | 23.47 / 27.02 | 20.39 / 27.79 | 30.63 / 16.51 | 30.23 / 10.03 / 30.00 | 30.44 |
+
+
+**Abbreviation note.**  
+- **FR**: Feature Recognition  
+- **TQ**: Target Quantification  
+- **SL**: Spatial Localization  
+- **CI**: Category Identification  
+- **SA**: Scene Analysis  
+- **CD**: Change Detection  
+
+Sub-dimension abbreviations follow the benchmark task taxonomy used in the paper.
+
+---
+
+### 4. Human Baseline
+
+**Take-away.** HM-Bench is challenging even for domain experts under zero-shot, no-software conditions.
+
+
+| Evaluator | PCA Image | Report |
+|---|---:|---:|
+| Domain experts (without analytical software) | 26.57 | 31.12 |
+
+
+**Note.** Experts answered using only the provided benchmark inputs, without traditional hyperspectral analysis tools.
+
+---
+
+### 5. QA Quality Control Statistics
+
+**Take-away.** All MLLM-assisted QA pairs were audited by remote-sensing experts, with an overall rejection rate of **18.1%**.
+
+#### 5.1 Overall filtering statistics
+
+
+| Stage | Count |
+|---|---:|
+| Initial MLLM-generated drafts | 7,979 |
+| Rejected drafts | 1,445 |
+| Retained verified pairs | 6,534 |
+| ├─ MCQs | 5,535 |
+| └─ Open-ended QA pairs | 999 |
+
+
+#### 5.2 Rejection breakdown
+
+
+| Error Category | Count | Ratio | Typical causes |
+|---|---:|---:|---|
+| Hallucination | 502 | 34.7% | Fabricated percentages, unverified pixel counts |
+| Trivial | 478 | 33.1% | Lacked evaluation depth (e.g., answers ≤ 3 words) |
+| Format issues | 414 | 28.7% | Structured key-values, comparative single-image format, etc. |
+| Other | 51 | 3.5% | Miscellaneous phrasing or number errors |
+
+
+**Note.** This expert filtering pipeline was used to reduce potential evaluation bias in MLLM-assisted QA generation.
+
+---
+
+### 6. Open-ended Evaluation
+
+**Take-away.** We evaluate open-ended answers using semantic alignment rather than exact-match accuracy. Compared with BGE-M3, **BGE-Reranker-v2-m3** provides more discriminative results.
+
+
+| Model | Modality | BGE-M3 (Avg) | Reranker (Avg) | Reranker >= 0.5 |
+|---|---|---:|---:|---:|
+| InternVL3-14B | Image | 0.827 | 0.508 | 52.92% |
+| InternVL3-14B | Report | 0.809 | 0.417 | 40.89% |
+| LLaVA-13B | Image | 0.843 | 0.474 | 50.06% |
+| LLaVA-13B | Report | 0.837 | 0.453 | 45.82% |
+
+
+**Protocol.** We evaluated 873 open-ended QA pairs. Since open-ended VQA lacks a universally accepted evaluation protocol, we use semantic alignment between generated and reference answers as a scalable proxy for answer quality.
+
+**Observation.** BGE-M3 tends to yield inflated similarities due to shared domain vocabulary, whereas the cross-encoder reranker is more discriminative.
+
+---
 <!--
  ## 📜 Citation
 
