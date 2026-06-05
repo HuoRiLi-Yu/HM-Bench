@@ -181,11 +181,7 @@ This section provides the additional experiments and analyses requested during r
 
 #### 2.2 Explained-variance curves
 
-> Please place the PCA explained-variance curve figure below.
-
-![PCA Explained Variance Curves](./assets/pca_explained_variance_curves.png)
-
-**Note.** The figure path above can be replaced with the actual file location in the repository.
+![PCA Explained Variance Curves](./ALL_datasets_variance_comparison.png)
 
 ---
 
